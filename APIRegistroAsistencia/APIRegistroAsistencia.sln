@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRegistroAsistencia", "APIRegistroAsistencia.csproj", "{115D82F9-515E-46E1-BAAE-4863082A99D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{FFF98CBF-45E4-4391-8563-2C61C9759C43}"
+	ProjectSection(SolutionItems) = preProject
+		Startup.cs = Startup.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115D82F9-515E-46E1-BAAE-4863082A99D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115D82F9-515E-46E1-BAAE-4863082A99D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115D82F9-515E-46E1-BAAE-4863082A99D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115D82F9-515E-46E1-BAAE-4863082A99D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6D4D86-938D-467B-BAFD-D3626B0AEF37}
+	EndGlobalSection
+EndGlobal
