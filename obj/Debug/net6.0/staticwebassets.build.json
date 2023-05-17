@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8WgfCH6SPcDirrdsUF7FOphbgvdTLyAMiwWRHivxGqU=",
+  "Source": "AsistenciaAPIPSQL",
+  "BasePath": "_content/AsistenciaAPIPSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
